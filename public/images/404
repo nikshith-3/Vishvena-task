@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8" />
+<!-- Primary Meta Tags -->
+<title> 404 </title>
+<meta name="title" content=" 404 ">
+<meta name="description" content="
+         Discover innovation at Vishvena! Explore our services in Intellectual Property, Artificial Intelligence, Hardware, and Software. Transform your business with us today!">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content=" /404.html ">
+<meta property="og:title" content=" 404 ">
+<meta property="og:description" content="
+    Discover innovation at Vishvena! Explore our services in Intellectual Property, Artificial Intelligence, Hardware, and Software. Transform your business with us today!">
+
+<meta property="og:image" content="/assets/images/meta-image.webp" />
+
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="/404.html">
+<meta property="twitter:title" content=" 404 ">
+<meta property="twitter:description" content="
+    Discover innovation at Vishvena! Explore our services in Intellectual Property, Artificial Intelligence, Hardware, and Software. Transform your business with us today!">
+
+<meta property="twitter:image" content="/assets/images/meta-image.webp" />
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Stylesheets-->
+  <link rel="shortcut icon" href="/assets/images/favicon.webp" />
+<link rel="stylesheet" type="text/css" href="/assets/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/plugins.css" />
+<link rel="stylesheet" type="text/css" href="/assets/revolution/css/settings.css" />
+<link rel="stylesheet" type="text/css" href="/assets/revolution/css/layers.css" />
+<link rel="stylesheet" type="text/css" href="/assets/revolution/css/navigation.css" />
+<link rel="stylesheet" type="text/css" href="/assets/type/type.css" />
+<link rel="stylesheet" type="text/css" href="/assets/css/style.css" />
+<!-- Global Color Scheme for all Pages-->
+
+
+<link rel="stylesheet" type="text/css" href="/assets/css/color/Blue.css">
+
+
+<!-- Global Font Scheme font-->
+
+
+  
+  <!-- Google Analytics-->
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FZTS82VKC2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FZTS82VKC2');
+</script>
+
+  
+</head>
+
+<body >
+  <div class="content-wrapper">
+
+    <!-- Classic Header-->
+
+<!-- Master Header with all menu variation using if else condition -->
+<nav
+  class="navbar  absolute transparent inverse-text navbar-hover-opacity nav-uppercase   navbar-expand-lg ">
+  
+  <div class=" container flex-row justify-content-center ">
+    
+    <div class="navbar-brand">
+
+      <a href="https://www.vishvena.com/">
+        
+
+        <img src="/assets/images/vishvena-logo.png"
+          srcset="/assets/images/vishvena-logo.png 1x, /assets/images/vishvena-logo.png 2x"
+          class=" logo-light "
+          alt="Vishvena - Let's Build" />
+        
+      </a>
+
+    </div>
+    <div class="navbar-other ms-auto order-lg-3">
+      <ul class="navbar-nav flex-row align-items-center" data-sm-skip="true">
+        <li class="nav-item">
+          <div class="navbar-hamburger d-lg-none d-xl-none ms-auto">
+            <button class="hamburger animate plain" data-toggle="offcanvas-nav"><span></span></button>
+          </div>
+        </li>
+        <li class="dropdown search-dropdown position-static nav-item">
+          <a href="#" role="button" class="collapse-toggle" data-toggle="collapse" data-target=".search-dropdown-menu"
+            aria-haspopup="true" aria-expanded="false"><i class="jam jam-search"></i></a>
+          <div class="dropdown-menu search-dropdown-menu w-100 collapse">
+            <div class="form-wrapper">
+              <form class="inverse-text">
+                <input type="text" id="search-input" class="form-control" placeholder="Search blog posts.." />
+              </form>
+              <!-- /.search-form -->
+              <i class="dropdown-close jam jam-close"></i>
+            </div>
+            <!-- /.form-wrapper -->
+            <ul id="results-container" class="position-static"></ul>
+          </div>
+        </li>
+        <li class="nav-item"><button class="plain" data-toggle="offcanvas-info"><i class="jam jam-info"></i></button>
+        </li>
+      </ul>
+      <!-- /.navbar-nav -->
+    </div>
+    <!-- /.navbar-other -->
+    
+    <div class="navbar-collapse offcanvas-nav">
+      <div class="offcanvas-header d-lg-none d-xl-none">
+        <a href="https://www.vishvena.com/">
+          <img src="/assets/images/vishvena-logo.png"
+            srcset="/assets/images/vishvena-logo.png 1x, /assets/images/vishvena-logo.png 2x"
+            alt="Vishvena - Let's Build" /></a>
+        <button class="plain offcanvas-close offcanvas-nav-close"><i class="jam jam-close"></i></button>
+      </div>
+      <ul
+        class="navbar-nav  mx-auto ">
+        
+        
+        
+          <li class="nav-item">
+          <a class="nav-link" href="/">Home</a>
+        </li>
+        
+        
+        
+        
+        <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href="/">Our Divisions</a>
+          <ul class="dropdown-menu">
+            
+            
+            
+            <li><a class="dropdown-item" href="/services">Services</a></li>
+            
+            <li><a class="dropdown-item" href="/smart-roads">Smart Road</a></li>
+            
+            <li><a class="dropdown-item" href="/agriculture">Agriculture</a></li>
+            
+            <li><a class="dropdown-item" href="/health">Health</a></li>
+            
+            <li><a class="dropdown-item" href="/defence">Defence</a></li>
+            
+            <li><a class="dropdown-item" href="/dreamtalk">DreamTalk</a></li>
+            
+            <li><a class="dropdown-item" href="/mediacraft">MediaCraft</a></li>
+            
+            
+          </ul>
+        </li>
+        
+        
+        
+        
+          <li class="nav-item">
+          <a class="nav-link" href="/expertise">Expertise Areas</a>
+        </li>
+        
+        
+        
+        
+          <li class="nav-item">
+          <a class="nav-link" href="/about-us">About Us</a>
+        </li>
+        
+        
+        
+        
+          <li class="nav-item">
+          <a class="nav-link" href="/blogs/index">Blog</a>
+        </li>
+        
+        
+        
+        
+          <li class="nav-item">
+          <a class="nav-link" href="/contact">Contact Us</a>
+        </li>
+        
+        
+      </ul>
+      <!-- /.navbar-nav -->
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>
+<!-- /.navbar -->
+<div class="offcanvas-info inverse-text">
+  <button class="plain offcanvas-close offcanvas-info-close"><i class="jam jam-close"></i></button>
+  <a href="https://www.vishvena.com/">
+    <img src="/assets/images/vishvena-logo.png"
+      srcset="/assets/images/vishvena-logo.png 1x, /assets/images/vishvena-logo.png 2x"
+      class=" logo-light "
+      alt="Vishvena - Let's Build" />
+  </a>
+  <div class="space30"></div>
+  <p>Discover innovation at Vishvena! Explore our services in Intellectual Property, Artificial Intelligence, Hardware, and Software. Transform your business with us today!</p>
+  <div class="space20"></div>
+  <div class="widget">
+    <h5 class="widget-title">Contact Info</h5>
+    <address> No. 4-28/36/1, Kandi, Saraswati Temple Kandi,<br>Sangareddy Medak 502285 Telangana<div class="space20"></div>
+      <a href="mailto:info@vishvena.com" class="nocolor"></a><br />
+      <a href='tel:+918296348166' style='color: white;'>+91 8296348166</a>
+    </address>
+  </div>
+  <!-- /.widget -->
+  <div class="widget">
+    
+    <h3 class="widget-title">Quick Links</h3>
+    
+    <ul class="list-unstyled">
+      
+      <li><a href="https://www.vishvena.com/about-us" class="nocolor">About Us</a></li>
+      
+      <li><a href="https://www.vishvena.com/expertise" class="nocolor">Expertise Area</a></li>
+      
+      <li><a href="https://www.vishvena.com/services" class="nocolor">Services</a></li>
+      
+    </ul>
+  </div>
+  <!-- /.widget -->
+  <div class="widget">
+    
+    <h3 class="widget-title">Follow Us</h3>
+    
+    <ul class="social social-mute social-s ms-auto">
+      
+      <li><a href="https://twitter.com/vishvenatech"><i class="jam jam-twitter"></i></a></li>
+      
+      <li><a href="https://www.facebook.com/vishvena/"><i class="jam jam-facebook"></i></a></li>
+      
+      <li><a href="https://www.instagram.com/vishvena_official/"><i class="jam jam-instagram"></i></a></li>
+      
+      <li><a href="https://www.youtube.com/@vishvena"><i class="jam jam-youtube"></i></a></li>
+      
+      <li><a href="https://www.pinterest.com/vishvenatech/"><i class="jam jam-pinterest"></i></a></li>
+      
+    </ul>
+  </div>
+  <!-- /.widget -->
+</div>
+<!-- /.offcanvas-info -->
+<!-- header with section title-->
+<div class="wrapper image-wrapper bg-image page-title-wrapper inverse-text" data-image-src="">
+  <div class="container inner pt-200 pb-200 text-center">
+    <div class="space90"></div>
+    
+     <h1 class="section-title text-uppercase">404</h1>
+    
+    
+     <h2 class="display-1 m-0">Page Not Found <a href="/">Go Home</a>
+</h2>
+    
+  </div>
+</div><div class="pt-120"></div>
+
+<!-- footer with details v1 -->
+<footer class=" dark-wrapper inverse-text ">
+  <div class="container inner">
+    <div class="row">
+      <div class="col-md-12 col-lg-3 text-center text-lg-start">
+        <div class="widget"> 
+          <a href="https://www.vishvena.com/">
+            
+              <img src="/assets/images/vishvena-logo.png" srcset="/assets/images/vishvena-logo.png 1x, /assets/images/vishvena-logo.png 2x" alt="Vishvena - Let's Build"/>
+              
+          </a>
+          
+          <div class="space20"></div>
+          <p>Discover innovation at Vishvena! Explore our services in Intellectual Property, Artificial Intelligence, Hardware, and Software. Transform your business with us today!</p>
+          
+        </div>
+        <!-- /.widget -->
+      </div>
+      <!-- /column -->
+      <div class="space30 d-lg-none d-xl-none"></div>
+      <div class="col-6 col-md-3 col-lg-2 offset-lg-1">
+        
+        <div class="widget">
+          
+           <h5 class="widget-title">Learn More</h5>
+          
+          <ul class="list-unstyled mb-0">
+            
+            <li><a href="#">Careers</a></li>
+            
+            <li><a href="#">Privacy Policy</a></li>
+            
+            <li><a href="https://www.vishvena.com/contact">Contact Us</a></li>
+            
+            <li><a href="#">Terms of Use</a></li>
+            
+            <li><a href="#">Privacy Policy</a></li>
+            
+          </ul>
+        </div>
+        <!-- /.widget -->
+      </div>
+      <!-- /column -->
+      <div class="col-6 col-md-3 col-lg-2">
+        
+        <div class="widget">
+          
+           <h5 class="widget-title">Quick Links</h5>
+          
+          <ul class="list-unstyled mb-0">
+            
+            <li><a href="">About Us</a></li>
+            
+            <li><a href="">Expertise Area</a></li>
+            
+            <li><a href="">Services</a></li>
+            
+          </ul>
+        </div>
+        <!-- /.widget -->
+      </div>
+      <!-- /column -->
+      <div class="col-6 col-md-3 col-lg-2">
+        
+        <div class="widget">
+          
+           <h5 class="widget-title">Company</h5>
+          
+          <ul class="list-unstyled mb-0">
+            
+            <li><a href="#">Our Team</a></li>
+            
+            <li><a href="#">Strategy</a></li>
+            
+            <li><a href="#">Service</a></li>
+            
+            <li><a href="#">Mission</a></li>
+            
+            <li><a href="#">Process</a></li>
+            
+          </ul>
+        </div>
+        <!-- /.widget -->
+      </div>
+      <!-- /column -->
+      <div class="col-6 col-md-3 col-lg-2">
+        <div class="widget">
+          <h5 class="widget-title">Contact</h5>
+          
+          <address>No. 4-28/36/1, Kandi, Saraswati Temple Kandi,<br>Sangareddy Medak 502285 Telangana</address>
+          
+          <a href="mailto:info@vishvena.com">info@vishvena.com</a><br />
+           
+        </div>
+        <!-- /.widget -->
+      </div>
+      <!-- /column -->
+    </div>
+    <!-- /.row -->
+  </div>
+  <!-- /.container -->
+  <div class="container inner pt-0 pb-40 d-flex align-items-center">
+    <p class="mb-0 mr-auto">© 2024 Vishvena. All rights reserved.</p>
+    <ul class="social social-mute social-s ms-auto">
+      
+       <li><a href="https://twitter.com/vishvenatech"><i class="jam jam-twitter"></i></a></li>
+      
+       <li><a href="https://www.facebook.com/vishvena/"><i class="jam jam-facebook"></i></a></li>
+      
+       <li><a href="https://www.instagram.com/vishvena_official/"><i class="jam jam-instagram"></i></a></li>
+      
+       <li><a href="https://www.youtube.com/@vishvena"><i class="jam jam-youtube"></i></a></li>
+      
+       <li><a href="https://www.pinterest.com/vishvenatech/"><i class="jam jam-pinterest"></i></a></li>
+      
+    </ul>
+  </div>
+</footer>
+  </div>
+  <!-- Site Scripts-->
+  <script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/popper.min.js"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script src="/assets/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script src="/assets/revolution/js/extensions/revolution.extension.video.min.js"></script>
+<script src="/assets/js/plugins.js"></script>
+<script src="/assets/js/simple-jekyll-search.min.js"></script>
+<script src="/assets/js/scripts.js"></script>
+
+</body>
+
+</html>
